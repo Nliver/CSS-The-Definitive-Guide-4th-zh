@@ -4,7 +4,7 @@ CSS 权威指南第四版 中文翻译
 
 在线阅读：[http://gdut_yy.gitee.io/doc-csstdg4/](http://gdut_yy.gitee.io/doc-csstdg4/)
 
-<img src="./docs/cover.png" width=40% />
+<img src="./docs/cover.png" width=24% />
 
 ## 前言
 
@@ -73,6 +73,9 @@ npm run docs:dev
     <td align="center"><a href="https://github.com/RxGirlz"><img src="https://avatars3.githubusercontent.com/u/51844789?s=460&v=4" width="100px;" /><br /><sub><b>RxGirlz</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/chenshaw1995"><img src="https://avatars0.githubusercontent.com/u/22993199?s=460&v=4" width="100px;" /><br /><sub><b>chenshaw1995</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/kwokonwoo"><img src="https://avatars0.githubusercontent.com/u/58925133?s=460&v=4" width="100px;" /><br /><sub><b>kwokonwoo</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/hanhan9449"><img src="https://avatars3.githubusercontent.com/u/28822945?s=400&u=98e89e388a3d44a6a6a9acb24ed2aff7634748e5&v=4" width="100px;" /><br /><sub><b>hanhan9449</b></sub></a><br /></td>
   </tr>
 </table>
 
